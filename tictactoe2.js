@@ -1,4 +1,5 @@
-// script for two players
+// script for two players and Computer
+//  Code still needs some refactoring though
 
 // using 3 arrays to store the moves
 let moves = {
